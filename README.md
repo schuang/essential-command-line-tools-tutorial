@@ -1,2 +1,2 @@
-# Essential Command-line Tools Tutorial
+# Essential Command-line Tools for HPC
 
