@@ -3,7 +3,7 @@
 ## Hoffman2 Cluster
 
 All of these command-line tools are available on the Hoffman2 cluster. To load
-them:
+them into your environment, use the following commands.
 
 ### vim
 
