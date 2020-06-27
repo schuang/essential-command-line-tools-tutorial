@@ -24,5 +24,5 @@ supercomputers.  Specifically, we will discuss:
 
 ## Course materials
 
-Click here to the course materials
+Click [here](tut/class.md) to see the course materials.
 
