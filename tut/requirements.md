@@ -5,6 +5,8 @@ computer system. But we want to use newer versions to benefit from the lastest
 new features. The following instructions detail how to get to these newer
 versions. 
 
+In the followings, the leading `$` is part of the command line prompt, not part of the command, i.e. you should **not** type it when you run the command on your computer.
+
 
 ## Hoffman2 Cluster
 
