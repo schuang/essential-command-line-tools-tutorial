@@ -2,7 +2,7 @@
 
 ## Description
 
-On POSIX-complaint computer systems, such as macOS, Linux or Windows with
+In POSIX-complaint computing environments, such as macOS, Linux or Windows with
 Cygwin, a number of command-line tools are available that can significantly
 streamline the daily tasks in advanced computation or data analysis.  Unlike
 their graphical user interface (GUI) counterparts, which appear to be prevalent
