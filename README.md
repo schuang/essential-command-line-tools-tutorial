@@ -2,7 +2,7 @@
 
 ## Course description
 
-On POSIX-complaint systems, such as macOS, Linux or Windows with Cygwin), a
+On POSIX-complaint systems, such as macOS, Linux or Windows with Cygwin, a
 number of command-line tools are available that can significantly streamline the
 daily tasks of a researcher working with advanced computing or data analysis.
 Unlike their graphical user interface counterparts, which appears to be
