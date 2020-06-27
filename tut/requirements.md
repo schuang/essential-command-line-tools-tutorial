@@ -1,5 +1,11 @@
 # Requirements
 
+Some versions of these command-line tools may be available by default on your
+computer system. But we want to use newer versions to benefit from the lastest
+new features. The following instructions detail how to get to these newer
+versions. 
+
+
 ## Hoffman2 Cluster
 
 All of these command-line tools are available on the Hoffman2 cluster. To load
@@ -35,7 +41,8 @@ module load git
 ## On your computer
 
 To get these tools on your computer, either your laptop computer or the
-supercomputers that you have access to, you can following these steps:
+supercomputers that you have access to, you can follow these instructions. All
+of the tools are free available.
 
 - Installing vim
 - Install pandoc
