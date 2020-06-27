@@ -1,6 +1,6 @@
 # Essential Command-line Tools for HPC
 
-## Course description
+## Description
 
 On POSIX-complaint systems, such as macOS, Linux or Windows with Cygwin, a
 number of command-line tools are available that can significantly streamline the
