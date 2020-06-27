@@ -11,7 +11,7 @@ tools can achieve (almost) infinitie flexibility, efficiency and reproducibility
 if used properly.  For example, when connecting with a remote server, using the
 text-based tool is lightweight and fast without the overhead (and hassle) of
 launching the  X11/graphical server on the local computer.  Using the text-based
-tools are not as hard (or mysterious) as it may sound once the basics are
+tools is not as hard (or mysterious) as it may sound once the basics are
 understood.  Once the user is familiar with it, it is possible to operate at the
 speed of muscle memory (e.g. without touching the computer mouse) when editing
 programs or texts.  We will discuss, explain and demonstrate a number of
