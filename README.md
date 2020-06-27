@@ -30,8 +30,8 @@ Specifically, the following topics will be discussed:
 - shell and shell script basics
 - examples line-oriented data processing
 
-Due to time contraint, each topic is not expected to be an exhaustic coverage of
-the tool. 
+Due to time contraint, each topic is not expected to be an exhaustive coverage of
+the underlying tool. 
 
 ## Course materials
 
