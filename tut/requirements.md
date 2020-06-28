@@ -77,9 +77,12 @@ git version 2.17.1
 
 ## On your computer
 
-To get these tools on your computer, either your laptop computer or the
+To install these tools on your computer, either your laptop computer or the
 supercomputers that you have access to, you can follow these instructions. All
-of the tools are free available.
+of the tools are free available. After installation, you need to set up the 
+environment variable (such as `PATH`), or add them to the shell initialization
+file (e.g. `.bashrc`) so that they can be executed when you run the command(s)
+in a terminal.
 
 - Installing vim
 - Install pandoc
