@@ -10,7 +10,7 @@ In the followings, the leading `$` is part of the command line prompt, not part 
 
 ## Hoffman2 Cluster
 
-All of these command-line tools are available on the Hoffman2 cluster. To load
+All of these command-line tools discussed in the class are available on the Hoffman2 cluster. To load
 them into your environment, use the following commands.
 
 ### vim
