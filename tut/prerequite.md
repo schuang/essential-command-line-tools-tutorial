@@ -1,6 +1,6 @@
 # Prerequite
 
-To follow along with the class, you are expected to have completed the
+To follow along with the class, you are expected to have completed either
 one of the two things prior to attending the class:
 
 1. (easy) Have a [Hoffman2 cluster
