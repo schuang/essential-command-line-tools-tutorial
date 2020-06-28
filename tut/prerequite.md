@@ -1,11 +1,21 @@
-# Requirements
+# Prerequite
+
+To follow along with the class, you are expected to have completed one of the
+following steps prior to attending the class:
+
+1. (easy) Have a Hoffman2 cluster account and are able to log in
+2. (work required) Have a POST-compliant computer (e.g. macOS, Linux or Windows with Cygwin,
+   either as a phyaical machine or a virtual machine) and have completed the
+   installation of all packages as described in "Local installation" below
 
 Some versions of these command-line tools may be available by default on your
 computer system. But we want to use newer versions to benefit from the lastest
 new features. The following instructions detail how to get to these newer
 versions. 
 
-In the followings, the leading `$` is part of the command line prompt, not part of the command, i.e. you should **not** type it when you run the command on your computer.
+In the followings, the leading `$` is part of the command line prompt, not part
+of the command, i.e. you should **not** type it when you run the command on your
+computer.
 
 
 ## Hoffman2 Cluster
@@ -75,7 +85,7 @@ $ git --version
 git version 2.17.1
 ```
 
-## On your computer
+## Local installation
 
 To install these tools on your computer, either your laptop computer or the
 supercomputers that you have access to, you can follow these instructions. All
@@ -84,7 +94,7 @@ environment variable (such as `PATH`), or add them to the shell initialization
 file (e.g. `.bashrc`) so that they can be executed when you run the command(s)
 in a terminal.
 
-- Installing vim
+- Install vim
 - Install pandoc
 - Install tmux
 - Install git

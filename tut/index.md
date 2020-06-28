@@ -1,6 +1,6 @@
 # Class Materials
 
-- [Prerequisite](requirements.md)
+- [Prerequisite](prerequite.md)
 - Text editors
 - pandoc
 - tmux
