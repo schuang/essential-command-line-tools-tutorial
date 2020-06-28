@@ -1,6 +1,6 @@
 # Class Materials
 
-- Prerequisite: [Accessing these command-line tools](requirements.md)
+- [Prerequisite](requirements.md)
 - Text editors
 - pandoc
 - tmux
