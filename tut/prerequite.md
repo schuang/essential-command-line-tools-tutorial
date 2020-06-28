@@ -9,10 +9,12 @@ one of the two things prior to attending the class:
    cluster](pre-h2.md)
 2. (work required) Have a POST-compliant computer (e.g. macOS, Linux or Windows
    with Cygwin, either as a phyaical machine or a virtual machine) and have
-   completed the installation of all packages. Please note: you are responsible
-   for installing them prior to the class. Some installation tips are posted
-   here for your reference but I may be unable to help you with the specifics of
-   your computer: [Installation on Local computer](pre-local-install.md)
+   completed the installation of all packages. Alternatively, you use your
+   Hoffman2 cluster account as this POSIX machine and install all packages under
+   your account. Please note: you are responsible for installing them prior to
+   the class. Some installation tips are posted here for your reference but I
+   may be unable to help you with the specifics of your computer: [Installation
+   on Local computer](pre-local-install.md)
 
 
 
