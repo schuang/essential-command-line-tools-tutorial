@@ -32,8 +32,8 @@ platforms. Specifically, the following topics will be covered:
 - examples of line-oriented data processing
 - examples of command-line utilities
 
-Due to time contraints, each topic is not expected to be an exhaustive coverage of
-the underlying tool. 
+Due to time contraints, each topic is not expected to be an exhaustive
+discussion of the underlying tool. 
 
 ## Course materials
 
