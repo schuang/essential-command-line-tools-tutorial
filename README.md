@@ -16,8 +16,7 @@ as hard (or mysterious) as it may sound once the basics are understood.  Once
 using TUI becomes muscle memory, one can focus on the subject of
 interest/research (e.g. editing a script/program or writing a maniscript)
 instead of operating the complex GUI. In this class, we will explain and
-demonstrate a number of text-based command line tools that constitute the
-backbone of one's daily tasks by examples and use cases.  We will also discuss
+demonstrate a number of popular text-based command line tools.  We will also discuss
 useful tips of configuring (customizing) these tools.  All of these tools can
 be easily installed on a personal computer, a remote (or "cloud") server, or
 one's supercomputer account without superuser priviledge.  Their use is
