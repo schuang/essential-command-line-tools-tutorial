@@ -6,5 +6,7 @@ Main points:
 - data model: blob, commit, tree
 - branch, merge, commit, comment
 - git configuraton
-- reading the log
+    - .gitconf: email, diff, color
+    - .git/config: URL, remote, master
+- reading the log: HEAD, master, origin vs. remote
 - vimdiff demo

@@ -6,5 +6,6 @@
 - [tmux](tmux.md)
 - [ssh](ssh.md)
 - [git](git.md)
+- [shell basics](shell.md)
 - line-oriented processing
 
