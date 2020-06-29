@@ -2,7 +2,7 @@
 
 ## Description
 
-In POSIX-complaint computing environments, such as macOS, Linux or Windows with
+In POSIX-compliant computing environments, such as macOS, Linux or Windows with
 Cygwin, a number of versatile, time-tested command-line open-source tools with
 text-based user interface (TUI) are available to support performing common
 tasks that arise in scientific computing and data analysis.  Unlike their
