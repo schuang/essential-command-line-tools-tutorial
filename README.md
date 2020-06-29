@@ -9,7 +9,7 @@ tasks that arise in scientific computing and data analysis.  Unlike their
 graphical user interface (GUI) counterparts, which appear to be prevalent in
 today's computing environments, these command-line tools can achieve (almost)
 infinitie flexibility, efficiency and reproducibility if used properly.  For
-example, when connecting with a remote server (e.g. a computing cluster), using
+example, when connecting to a remote server (e.g. a computing cluster), using
 the text-based tool is lightweight and fast without the overhead of launching
 the X11/graphical server on the local computer.  Using text-based tools is not
 as hard (or mysterious) as it may sound once the basics are understood.  Once
