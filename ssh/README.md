@@ -13,6 +13,8 @@
 
 - [~/.ssh/config](config)
 
+**Note**: Your need to replace "xxx" in the User row with your actual username of the *server*.
+
 ## permission
 
 For the key pair to work properly, the permission of cerntain files needs to be
