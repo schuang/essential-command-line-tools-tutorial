@@ -1,9 +1,9 @@
 Host github.com
-   IdentityFile ~/.ssh/id_rsa-github-h2
+   IdentityFile ~/.ssh/id_rsa_github
    User git
 
 Host gitlab.idre.ucla.edu
-   IdentityFile ~/.ssh/id_rsa_user_support
+   IdentityFile ~/.ssh/id_rsa_gitlab
    User git
 
 Host login1
