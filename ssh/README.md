@@ -33,7 +33,13 @@ $ chmod 600 ~/.ssh/id_rsa_test    # the private key
 (e.g. the remote HPC server/cluster)
 
 The `id_rsa_test.pub` generated on your laptop (see above) is copied to the
-server, and appended to the file `.ssh/authorized_keys`.
+server, and appended to the file `.ssh/authorized_keys`, e.g.
+
+```
+cat id_rsa_test.pub >> .ssh/authorized_keys
+```
+
+To ensure correct persmission, run these commands:
 
 ```
 $ chmod 600 ~/.ssh
