@@ -9,6 +9,8 @@
 
 ## ssh configuration example
 
+(e.g. on your laptop computer)
+
 - [~/.ssh/config](config)
 
 ## permission
