@@ -48,3 +48,11 @@ $ chmod 600 ~/.ssh/authorized_keys   # contains the public key
 
 ```
 
+## Login
+
+(On the laptop computer)
+
+```
+$ ssh login1
+```
+See the "login1" entry in [ssh config file](config).
