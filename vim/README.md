@@ -38,12 +38,3 @@ After launching the vimdiff split screen by `git mergetool`, use `:diffg R` to g
 `:diffg L` to get the LOCAL change. Use `]c` and `[c` to move by changes.
 
 
-## Remote editing via ssh
-
-On local computer's vim (assuming ssh for a remote server `mg` has been set up):
-
-`:e sftp://mg/demo/` then open the remote file and edit as usual.
-
-Note that Hoffman2 cluster's security does not allow this, but you may do this on
-other remote servers.
-
