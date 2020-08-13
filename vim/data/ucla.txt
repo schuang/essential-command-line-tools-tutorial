@@ -1,0 +1,27 @@
+The University of California, Los Angeles (UCLA)[1] is a public research
+university in Los Angeles. UCLA traces its early origins back to 1882 as the
+southern branch of the California State Normal School (now San Jose State
+University). It became the Southern Branch of the University of California in
+1919, making it the second-oldest (after UC Berkeley) of the 10-campus
+University of California system. The oldest of the UC campuses in Southern
+California, some consider it to be one of the system’s flagship campuses
+alongside UC Berkeley.[11]
+
+UCLA offers 337 undergraduate and graduate degree programs in a wide range of
+disciplines,[12] enrolling about 31,500 undergraduate and 12,800 graduate
+students.[7] UCLA had 119,000 applicants for Fall 2016, including transfer
+applicants, making the school the most applied-to of any American
+university.[13]
+
+Source: https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles
+
+############################
+
+1   30      34
+2   24      32
+3   54      12
+4   89      87
+5   64      90
+6   36      23
+
+
