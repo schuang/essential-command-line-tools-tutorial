@@ -1,10 +1,6 @@
 # Essential command-line tools in HPC environments
 
-
-## Video
-
-[Video](https://youtu.be/L-dx73NdfLs) recorded on 2020-08-13
-
+[Slides](slides/slides-2020-08-13.pdf) used in the video lecture below:
 
 | Time | Video link |
 |----------|------------|
@@ -20,8 +16,3 @@
 | [1:29:39](https://www.youtube.com/watch?v=L-dx73NdfLs&t=5379s) |    Git rebase using Vim: explanation |
 | [1:36:06](https://www.youtube.com/watch?v=L-dx73NdfLs&t=5766s) |    Git rebase using Vim: demo |
 | [1:39:02](https://www.youtube.com/watch?v=L-dx73NdfLs&t=5942s) |    Tmux: terminal multiplexer |
-
-##  Slides
-
-- [Download pdf](slides/slides-2020-08-13.pdf)
-- [View online](https://docs.google.com/presentation/d/1she13VxaaXHO3eo755tEy_0l2NViVoICPpm9qN9j7Rc/edit?usp=sharing)
