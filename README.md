@@ -2,7 +2,7 @@
 
 [Slides](slides/slides-2020-08-13.pdf) used in the video lecture below:
 
-| Time | Video link |
+| Video link | Topic |
 |----------|------------|
 | [0:00:00](https://www.youtube.com/watch?v=L-dx73NdfLs&t=0s)    |    Introduction |
 | [0:18:46](https://www.youtube.com/watch?v=L-dx73NdfLs&t=1126s) |    Secure shell (ssh) |
